@@ -20,8 +20,9 @@ Hello, I'm Erin, a frontend developer in Portland, Oregon with a decade of exper
 
 ## Tech
 
-- My Computer: a ThinkPad X230 modded to hell running debian
-- My Stack: Ruby, PHP, JavaScript, React (when I have to), VueJS (when I get to
+- My Computer: a ThinkPad X230 modded to hell running Debian
+- My Stack: Ruby, PHP, JavaScript, React (when I have to), VueJS (when I get to)
+- My Editor: Vim
 
 <!---
 kvuzet/kvuzet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
