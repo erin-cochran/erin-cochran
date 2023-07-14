@@ -6,7 +6,7 @@ Hello, I'm Erin, a frontend developer in Portland, Oregon with a decade of exper
 
 - Unapologetically transgender
 - they/she pronouns
-- portlander
+- Portlander
 
 ## Interests
 
