@@ -25,8 +25,7 @@ Hello, I'm Erin, a frontend developer in Portland, Oregon with a decade of exper
 - My Editor: Vim
 
 ## Contact
-- hit me up on xmpp! `erin@kvuzet.org`
-- or matrix! `@kvuzet:systemli.org`
+- hit me up on matrix! `@kvuzet:systemli.org`
 - no I'm not putting my email here
 <!---
 kvuzet/kvuzet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
